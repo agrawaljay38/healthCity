@@ -74,5 +74,5 @@ checkupDates = np.array([])
 genders = np.array([])
 cities = np.array([])
 blood_groups = np.array([])
-ages = np.array([])
+ages_list = np.array([])
 
